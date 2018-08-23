@@ -1,0 +1,7 @@
+use_frameworks!
+target 'PXiOS-ModularizationText_Tests' do
+  pod 'PXiOS-ModularizationText', :path => '../'
+  
+  pod 'Specta'
+    pod 'Expecta'
+end
