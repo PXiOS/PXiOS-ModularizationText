@@ -1,0 +1,6 @@
+framework module Pods_PXiOS_ModularizationText_Tests {
+  umbrella header "Pods-PXiOS-ModularizationText_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

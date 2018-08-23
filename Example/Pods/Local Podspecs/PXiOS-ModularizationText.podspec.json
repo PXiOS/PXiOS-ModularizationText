@@ -1,0 +1,22 @@
+{
+  "name": "PXiOS-ModularizationText",
+  "version": "0.1.0",
+  "summary": "A short description of PXiOS-ModularizationText.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/PXiOS/PXiOS-ModularizationText",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "PXiOS": "416644060@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/PXiOS/PXiOS-ModularizationText.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PXiOS-ModularizationText/Classes/**/*"
+}

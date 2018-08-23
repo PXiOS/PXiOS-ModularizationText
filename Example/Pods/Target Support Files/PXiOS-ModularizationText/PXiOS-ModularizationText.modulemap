@@ -1,0 +1,6 @@
+framework module PXiOS_ModularizationText {
+  umbrella header "PXiOS-ModularizationText-umbrella.h"
+
+  export *
+  module * { export * }
+}
